@@ -7,7 +7,7 @@ import { VPTeamPage, VPTeamPageTitle, VPTeamMembers, VPTeamPageSection } from "v
 
 const coreMembers = [{
 	avatar: "/avatar/herb.jpg",
-	name: "Herbert He",
+	name: "Herbert He（惒泊）",
 	title: "前端开发者、多个开源项目作者/贡献者/协作者",
 	org: "Hapin",
 	orgLink: "https://github.com/ha-pin",

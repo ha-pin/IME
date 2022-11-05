@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 安装哈拼输入法
-      link: /download
+      link: /download/index
     - theme: alt
       text: 学习哈拼
       link: https://hapin.icu/zh-CN/standardize
