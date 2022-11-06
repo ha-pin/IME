@@ -17,6 +17,14 @@ const coreMembers = [{
     ],
 	desc: "哈拼项目核心作者",
 	sponsor: "https://www.patreon.com/HerbertHe"
+}, {
+  avatar: "/avatar/elgar.jpg",
+  name: "俄力哈尔·阿达克（ەلعار اداق ۇلى）",
+  title: "前端开发工程师",
+  links: [
+    { icon: "github", link: "https://github.com/elgar17" }
+  ],
+  desc: "哈拼输入法项目贡献者"
 }]
 // const partners = [...]
 </script>
