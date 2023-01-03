@@ -24,5 +24,3 @@
 | --------- | ---------------------------------------- |
 | MacOS     | [哈拼输入法 × MacOS](/download/macos)    |
 | Linux     | [哈拼输入法 × Linux](/download/linux)    |
-| HarmonyOS | [哈拼输入法 × HarmonyOS](/download/ohos) |
-| iOS       | [哈拼输入法 × iOS](/download/ios)        |
