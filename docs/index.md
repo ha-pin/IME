@@ -11,7 +11,7 @@ hero:
       link: /download/index
     - theme: alt
       text: 学习哈拼
-      link: https://hapin.icu/zh-CN/standardize
+      link: https://hapin.js.org/zh-CN/standardize
 
 features:
   - icon: ⚡
