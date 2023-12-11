@@ -26,6 +26,7 @@ const sidebarDownload = () => [
 const nav = () => [{ text: "开发团队", link: "/team" }]
 
 export default defineConfig({
+    base: "/IME/",
     lang: "zh-CN",
     title: "哈拼输入法 HapinIME",
     description: "遇见你的全新哈萨克语输入法",
