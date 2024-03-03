@@ -11,7 +11,7 @@ const sidebarDownload = () => [
         collapsible: true,
         items: [
             { text: "MacOS", link: "/download/macos" },
-            { text: "Linux", link: "/download/linux" },
+            // { text: "Linux", link: "/download/linux" },
             // { text: 'HarmonyOS', link: '/download/ohos' },
             { text: 'iOS', link: '/download/ios' },
         ],
