@@ -6,6 +6,7 @@
   "repository": "https://github.com/ha-pin/IME.git",
   "author": "Herbert <herbert.he0229@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "private": true,
   "scripts": {
     "docs:dev": "vitepress dev docs",
