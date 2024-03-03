@@ -10,11 +10,11 @@
 
 - 通过Wi-Fi上传方案
 
-![img](/hamster/IMG_1718.PNG)
+![img](/hamster/IMG_1718.png)
 
 - 启动服务，并在电脑端访问地址
 
-![img](/hamster/IMG_1719.PNG)
+![img](/hamster/IMG_1719.png)
 
 - 上传 `.yaml` 文件
 
@@ -22,10 +22,10 @@
 
 > **键盘设置 - 键盘布局 - 右上角+号 - 在 `我的iPhone/Hamster 文件夹下选择` `hapin-keyboards-*.yaml`文件 - 选择你需要的自定义哈拼键盘**
 
-![img](/hamster/IMG_1718.PNG)
+![img](/hamster/IMG_1718.png)
 
-![img](/hamster/IMG_1720.PNG)
+![img](/hamster/IMG_1720.png)
 
-![img](/hamster/IMG_1721.PNG)
+![img](/hamster/IMG_1721.png)
 
-![img](/hamster/IMG_1722.PNG)
+![img](/hamster/IMG_1722.png)
