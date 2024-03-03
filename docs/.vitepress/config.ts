@@ -13,7 +13,7 @@ const sidebarDownload = () => [
             { text: "MacOS", link: "/download/macos" },
             { text: "Linux", link: "/download/linux" },
             // { text: 'HarmonyOS', link: '/download/ohos' },
-            // { text: 'iOS', link: '/download/ios' },
+            { text: 'iOS', link: '/download/ios' },
         ],
     },
     {
